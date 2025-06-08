@@ -5,6 +5,7 @@ body {
   font-family: "BIZ UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;
   color: #222;
   src: url('../fonts/DFMRGC.TTC') format("truetype");
+  src: url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.ttf');
   src: url('../fonts/BIZUDPGothic-Bold.ttf') format("truetype");
   src: url('../fonts/BIZUDPGothic-Regular.ttf') format("truetype");
 }
