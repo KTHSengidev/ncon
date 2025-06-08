@@ -4,6 +4,9 @@ body {
   font-size: 14px;
   font-family: "BIZ UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;
   color: #222;
+  src: url('../fonts/DFMRGC.TTC') format("truetype");
+  src: url('../fonts/BIZUDPGothic-Bold.ttf') format("truetype");
+  src: url('../fonts/BIZUDPGothic-Regular.ttf') format("truetype");
 }
 
 header h2 {
@@ -133,18 +136,6 @@ html {
 a,a:visited {
   color: #000;
   text-decoration: none;
-}
-
-.biz-udpgothic-regular {
-  font-family: "BIZ UDPGothic", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.biz-udpgothic-bold {
-  font-family: "BIZ UDPGothic", sans-serif;
-  font-weight: 700;
-  font-style: normal;
 }
 
 #search-container {
