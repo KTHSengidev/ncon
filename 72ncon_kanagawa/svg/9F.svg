@@ -43,7 +43,7 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop62002" /></linearGradient><style
-       id="style7169">.cls-1{letter-spacing:-.039em;}.cls-2{font-size:6px;}.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9,.cls-10{fill:#0a0a0a;}.cls-2,.cls-3,.cls-4,.cls-11,.cls-6,.cls-12,.cls-7,.cls-8,.cls-9,.cls-10{font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-13{letter-spacing:-.079em;}.cls-14{letter-spacing:-.145em;}.cls-3,.cls-15{font-size:5.8px;}.cls-16{letter-spacing:-.157em;}.cls-17{letter-spacing:-.02em;}.cls-18{letter-spacing:-.143em;}.cls-4{font-size:5.9px;}.cls-19{letter-spacing:-.021em;}.cls-20{letter-spacing:-.165em;}.cls-21{fill:#686868;}.cls-22{letter-spacing:-.015em;}.cls-23{letter-spacing:-.093em;}.cls-24{letter-spacing:.01em;}.cls-11,.cls-12{fill:#323232;}.cls-11,.cls-25{font-size:5px;}.cls-26{letter-spacing:-.024em;}.cls-12{font-size:5.072px;}.cls-27{letter-spacing:-.024em;}.cls-28{letter-spacing:-.195em;}.cls-29{letter-spacing:-.024em;}.cls-30{fill:#fafdff;}.cls-30,.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38{stroke-width:.5px;}.cls-30,.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39{stroke-miterlimit:10;}.cls-30,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39{stroke:#002355;}.cls-31{stroke:#a0a0a0;}.cls-31,.cls-32{fill:#e9fff0;}.cls-33{fill:#fde9f2;}.cls-34{fill:#eae1cf;}.cls-7{font-size:5.3px;}.cls-40{letter-spacing:-.16em;}.cls-35{fill:#c2d6cc;}.cls-36{fill:#ccf5ff;}.cls-37{fill:#cceea2;}.cls-41{letter-spacing:-.159em;}.cls-8{font-size:5.5px;}.cls-38{fill:#f7f6f5;}.cls-9{font-size:4px;}.cls-42{letter-spacing:-.028em;}.cls-43{letter-spacing:-.028em;}.cls-44{letter-spacing:-.123em;}.cls-45{letter-spacing:-.028em;}.cls-46{letter-spacing:-.007em;}.cls-47{letter-spacing:-.117em;}.cls-48{letter-spacing:-.007em;}.cls-10{font-size:4.5px;}.cls-49{letter-spacing:-.192em;}.cls-50{letter-spacing:-.05em;}.cls-51{letter-spacing:-.193em;}.cls-52{letter-spacing:-.089em;}.cls-53{letter-spacing:-.15em;}.cls-54{letter-spacing:-.017em;}.cls-55{letter-spacing:-.131em;}.cls-39{fill:none;stroke-width:.25px;}.cls-56{letter-spacing:-.053em;}</style><image
+       id="style7169">.cls-1{letter-spacing:-.039em;}.cls-2{font-size:6px;}.cls-2,.cls-3,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9,.cls-10{fill:#0a0a0a;}.cls-2,.cls-3,.cls-4,.cls-11,.cls-6,.cls-12,.cls-7,.cls-8,.cls-9,.cls-10{font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-13{letter-spacing:-.079em;}.cls-14{letter-spacing:-.145em;}.cls-3,.cls-15{font-size:5.8px;}.cls-16{letter-spacing:-.157em;}.cls-17{letter-spacing:-.02em;}.cls-18{letter-spacing:-.143em;}.cls-4{font-size:5.9px;}.cls-19{letter-spacing:-.021em;}.cls-20{letter-spacing:-.165em;}.cls-21{fill:#686868;}.cls-22{letter-spacing:-.015em;}.cls-23{letter-spacing:-.093em;}.cls-24{letter-spacing:.01em;}.cls-11,.cls-12{fill:#323232;}.cls-11,.cls-25{font-size:5px;}.cls-26{letter-spacing:-.024em;}.cls-12{font-size:5.072px;}.cls-27{letter-spacing:-.024em;}.cls-28{letter-spacing:-.195em;}.cls-29{letter-spacing:-.024em;}.cls-30{fill:#fafdff;}.cls-30,.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38{stroke-width:.5px;}.cls-30,.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39{stroke-miterlimit:10;}.cls-30,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39{stroke:#002355;}.cls-31{stroke:#a0a0a0;}.cls-31,.cls-32{fill:#e9fff0;}.cls-33{fill:#fde9f2;}.cls-34{fill:#eae1cf;}.cls-7{font-size:5.3px;}.cls-40{letter-spacing:-.16em;}.cls-35{fill:#c2d6cc;}.cls-36{fill:#ccf5ff;}.cls-37{fill:#cceea2;}.cls-41{letter-spacing:-.159em;}.cls-8{font-size:5.5px;}.cls-38{fill:#f7f6f5;}.cls-9{font-size:4px;}.cls-42{letter-spacing:-.028em;}.cls-43{letter-spacing:-.028em;}.cls-44{letter-spacing:-.123em;}.cls-45{letter-spacing:-.028em;}.cls-46{letter-spacing:-.007em;}.cls-47{letter-spacing:-.117em;}.cls-48{letter-spacing:-.007em;}.cls-10{font-size:4.5px;}.cls-49{letter-spacing:-.192em;}.cls-50{letter-spacing:-.05em;}.cls-51{letter-spacing:-.193em;}.cls-52{letter-spacing:-.089em;}.cls-53{letter-spacing:-.15em;}.cls-54{letter-spacing:-.017em;}.cls-55{letter-spacing:-.131em;}.cls-39{fill:none;stroke-width:.25px;}.cls-56{letter-spacing:-.053em;}</style><image
        id="image"
        width="230"
        height="230"
@@ -507,7 +507,7 @@
        id="text6464"
        x="169.68657"
        y="21.24436"
-       style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          x="153.44666"
          y="21.24436"
          id="tspan6462"
@@ -1943,7 +1943,7 @@
            y="0"
            id="tspan7610">倉</tspan></text></g><text
        xml:space="preserve"
-       style="font-size:3.33333px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:3.33333px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="126.6601"
        y="52.407223"
        id="text14158"><tspan
@@ -1964,7 +1964,7 @@
          y="64.907211"
          id="tspan14460"> </tspan></text><text
        xml:space="preserve"
-       style="font-size:5.33333px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:5.33333px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="104.45586"
        y="52.588375"
        id="text14158-8"><tspan
@@ -1984,7 +1984,7 @@
          style="font-size:5.33333px;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
          id="tspan16667">待機室</tspan></text><text
        xml:space="preserve"
-       style="font-size:3.33333px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:3.33333px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="119.39716"
        y="11.911947"
        id="text14158-8-0"><tspan
@@ -2014,7 +2014,7 @@
          style="font-size:3.33333px;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
          id="tspan16748">創作テレビドラマ</tspan></text><text
        xml:space="preserve"
-       style="font-size:3.33333px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:3.33333px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="89.822151"
        y="9.8904696"
        id="text14158-8-0-8"><tspan
@@ -2049,7 +2049,7 @@
          style="font-size:3.33333px;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
          id="tspan16760">モニタ室</tspan></text><text
        xml:space="preserve"
-       style="font-size:3.33333px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:3.33333px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:none;stroke-opacity:1;paint-order:stroke fill markers"
        x="60.247147"
        y="9.8914661"
        id="text14158-8-0-8-4"><tspan
@@ -2084,7 +2084,7 @@
          style="font-size:3.33333px;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
          id="tspan16760-2">モニタ室</tspan></text><text
        xml:space="preserve"
-       style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
        x="182.41565"
        y="231.95615"
        id="text4362"><tspan
@@ -2100,11 +2100,11 @@
        sodipodi:role="line"
        x="166.82416"
        y="180.1647"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="tspan106549">原稿・番組進行表</tspan><tspan
        sodipodi:role="line"
        x="166.82416"
        y="183.39272"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.4px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        rotate="0 0 0 0 0 0 0 0"
        id="tspan106553">提出受付</tspan></text></svg>

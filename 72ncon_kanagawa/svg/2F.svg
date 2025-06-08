@@ -40,7 +40,7 @@
        width="33.234019"
        height="5.4404342"
        id="rect10618" /><style
-       id="style1546">.cls-1,.cls-2,.cls-3{fill:none;}.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9,.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15{font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-4,.cls-6,.cls-7,.cls-8,.cls-9{fill:#0a0a0a;}.cls-4,.cls-10{font-size:6px;}.cls-16{letter-spacing:-.012em;}.cls-17{letter-spacing:-.041em;}.cls-18{letter-spacing:-.02em;}.cls-19{letter-spacing:-.021em;}.cls-20{letter-spacing:-.041em;}.cls-21{clip-path:url(#clippath);}.cls-22{letter-spacing:-.069em;}.cls-23{letter-spacing:-.061em;}.cls-24,.cls-25{fill:#f7f6f5;}.cls-26{fill:#686868;}.cls-5{letter-spacing:-.015em;}.cls-5,.cls-11,.cls-14{font-size:4.4px;}.cls-6{font-size:5px;}.cls-27{letter-spacing:-.012em;}.cls-7,.cls-13{font-size:4.8px;}.cls-28{mix-blend-mode:multiply;}.cls-8{font-size:4.883px;}.cls-29{letter-spacing:-.024em;}.cls-30{letter-spacing:-.006em;}.cls-31{fill:#fff;}.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-25,.cls-2,.cls-3{stroke-miterlimit:10;stroke-width:.5px;}.cls-31,.cls-32,.cls-33,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-25,.cls-2{stroke:#002355;}.cls-32{fill:#ffc162;}.cls-33{fill:#fafdff;}.cls-34,.cls-36{fill:#e9fff0;}.cls-34,.cls-3{stroke:#a0a0a0;}.cls-35{fill:#f5ffab;}.cls-37{fill:#ebebeb;}.cls-38{fill:#ecdaff;}.cls-39{fill:#eae1cf;}.cls-43{letter-spacing:-.007em;}.cls-40{fill:#c2d6cc;}.cls-41{fill:#ccf5ff;}.cls-42{fill:#cceea2;}.cls-9{font-size:5.5px;}.cls-44{letter-spacing:-.036em;}.cls-45{letter-spacing:.01em;}.cls-46{letter-spacing:-.028em;}.cls-47{letter-spacing:-.016em;}.cls-48{letter-spacing:-.008em;}.cls-11{letter-spacing:-.044em;}.cls-49{letter-spacing:.005em;}.cls-12{letter-spacing:-.041em;}.cls-12,.cls-15{fill:#323232;font-size:3.766px;}.cls-50{letter-spacing:-.015em;}.cls-51{letter-spacing:-.038em;}.cls-52{isolation:isolate;}.cls-53{letter-spacing:-.017em;}.cls-54{letter-spacing:-.016em;}.cls-55{letter-spacing:-.017em;}.cls-56{letter-spacing:-.034em;}.cls-57{letter-spacing:-.017em;}.cls-58{letter-spacing:-.053em;}</style><clipPath
+       id="style1546">.cls-1,.cls-2,.cls-3{fill:none;}.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9,.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15{font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-4,.cls-6,.cls-7,.cls-8,.cls-9{fill:#0a0a0a;}.cls-4,.cls-10{font-size:6px;}.cls-16{letter-spacing:-.012em;}.cls-17{letter-spacing:-.041em;}.cls-18{letter-spacing:-.02em;}.cls-19{letter-spacing:-.021em;}.cls-20{letter-spacing:-.041em;}.cls-21{clip-path:url(#clippath);}.cls-22{letter-spacing:-.069em;}.cls-23{letter-spacing:-.061em;}.cls-24,.cls-25{fill:#f7f6f5;}.cls-26{fill:#686868;}.cls-5{letter-spacing:-.015em;}.cls-5,.cls-11,.cls-14{font-size:4.4px;}.cls-6{font-size:5px;}.cls-27{letter-spacing:-.012em;}.cls-7,.cls-13{font-size:4.8px;}.cls-28{mix-blend-mode:multiply;}.cls-8{font-size:4.883px;}.cls-29{letter-spacing:-.024em;}.cls-30{letter-spacing:-.006em;}.cls-31{fill:#fff;}.cls-31,.cls-32,.cls-33,.cls-34,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-25,.cls-2,.cls-3{stroke-miterlimit:10;stroke-width:.5px;}.cls-31,.cls-32,.cls-33,.cls-35,.cls-36,.cls-37,.cls-38,.cls-39,.cls-40,.cls-41,.cls-42,.cls-25,.cls-2{stroke:#002355;}.cls-32{fill:#ffc162;}.cls-33{fill:#fafdff;}.cls-34,.cls-36{fill:#e9fff0;}.cls-34,.cls-3{stroke:#a0a0a0;}.cls-35{fill:#f5ffab;}.cls-37{fill:#ebebeb;}.cls-38{fill:#ecdaff;}.cls-39{fill:#eae1cf;}.cls-43{letter-spacing:-.007em;}.cls-40{fill:#c2d6cc;}.cls-41{fill:#ccf5ff;}.cls-42{fill:#cceea2;}.cls-9{font-size:5.5px;}.cls-44{letter-spacing:-.036em;}.cls-45{letter-spacing:.01em;}.cls-46{letter-spacing:-.028em;}.cls-47{letter-spacing:-.016em;}.cls-48{letter-spacing:-.008em;}.cls-11{letter-spacing:-.044em;}.cls-49{letter-spacing:.005em;}.cls-12{letter-spacing:-.041em;}.cls-12,.cls-15{fill:#323232;font-size:3.766px;}.cls-50{letter-spacing:-.015em;}.cls-51{letter-spacing:-.038em;}.cls-52{isolation:isolate;}.cls-53{letter-spacing:-.017em;}.cls-54{letter-spacing:-.016em;}.cls-55{letter-spacing:-.017em;}.cls-56{letter-spacing:-.034em;}.cls-57{letter-spacing:-.017em;}.cls-58{letter-spacing:-.053em;}</style><clipPath
        id="clippath"><rect
          class="cls-1"
          x="324.87"
@@ -990,7 +990,7 @@
                style="stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers">食堂</tspan></text><text
              class="cls-9"
              id="text1727-8"
-             style="font-size:5.5px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;display:inline;fill:#0a0a0a;stroke:#ffffff;stroke-linecap:butt;stroke-opacity:1;paint-order:stroke fill markers"
+             style="font-size:5.5px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;display:inline;fill:#0a0a0a;stroke:#ffffff;stroke-linecap:butt;stroke-opacity:1;paint-order:stroke fill markers"
              x="291.3291"
              y="37.950771"><tspan
                sodipodi:role="line"
@@ -1043,7 +1043,7 @@
              id="tspan1749">防災倉庫</tspan></text><text
            class="cls-4"
            id="text1761-0"
-           style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
+           style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
            x="75.998421"
            y="133.74588"><tspan
              sodipodi:role="line"
@@ -1053,7 +1053,7 @@
              style="font-size:6px;stroke:none">ステージ</tspan></text><text
            class="cls-4"
            id="text1761-0-0"
-           style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1"
+           style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1"
            x="76.010139"
            y="190.8837">体育室</text><text
            class="cls-12"
@@ -1185,7 +1185,7 @@
              x="226.42581"
              y="170.12718"
              id="tspan4494"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';stroke:none;stroke-opacity:1;paint-order:stroke fill markers">ホール</tspan></text></g><g
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';stroke:none;stroke-opacity:1;paint-order:stroke fill markers">ホール</tspan></text></g><g
          id="_クトグラム-2"><g
            id="g1884"><g
              id="g1870"><path

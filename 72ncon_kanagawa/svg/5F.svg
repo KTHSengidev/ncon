@@ -51,7 +51,7 @@
          style="stop-color:#ffffff;stop-opacity:0;"
          offset="1"
          id="stop15989" /></linearGradient><style
-       id="style4502">.cls-1{font-size:6px;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{fill:#0a0a0a;}.cls-1,.cls-3,.cls-4,.cls-5{font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-6{letter-spacing:-.006em;}.cls-7{letter-spacing:.05em;}.cls-8{fill:#686868;}.cls-3{font-size:4.8px;}.cls-9{letter-spacing:.02em;}.cls-10{letter-spacing:-.35em;}.cls-11{letter-spacing:-.024em;}.cls-12{fill:#ffc162;}.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22{stroke-miterlimit:10;stroke-width:.5px;}.cls-12,.cls-13,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22{stroke:#002355;}.cls-13{fill:#fafdff;}.cls-14{stroke:#a0a0a0;}.cls-14,.cls-16{fill:#e9fff0;}.cls-15{fill:#f5ffab;}.cls-17{fill:#ecdaff;}.cls-18{fill:#eae1cf;}.cls-4{font-size:5.3px;}.cls-19{fill:#c2d6cc;}.cls-20{fill:#cceea2;}.cls-21{fill:#f7f6f5;}.cls-23{letter-spacing:-.028em;}.cls-24{letter-spacing:.01em;}.cls-25{letter-spacing:-.007em;}.cls-5{font-size:4.6px;}.cls-26{letter-spacing:.01em;}.cls-27{letter-spacing:-.017em;}.cls-28{letter-spacing:-.017em;}.cls-22{fill:none;}</style><image
+       id="style4502">.cls-1{font-size:6px;}.cls-1,.cls-2,.cls-3,.cls-4,.cls-5{fill:#0a0a0a;}.cls-1,.cls-3,.cls-4,.cls-5{font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';}.cls-6{letter-spacing:-.006em;}.cls-7{letter-spacing:.05em;}.cls-8{fill:#686868;}.cls-3{font-size:4.8px;}.cls-9{letter-spacing:.02em;}.cls-10{letter-spacing:-.35em;}.cls-11{letter-spacing:-.024em;}.cls-12{fill:#ffc162;}.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22{stroke-miterlimit:10;stroke-width:.5px;}.cls-12,.cls-13,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22{stroke:#002355;}.cls-13{fill:#fafdff;}.cls-14{stroke:#a0a0a0;}.cls-14,.cls-16{fill:#e9fff0;}.cls-15{fill:#f5ffab;}.cls-17{fill:#ecdaff;}.cls-18{fill:#eae1cf;}.cls-4{font-size:5.3px;}.cls-19{fill:#c2d6cc;}.cls-20{fill:#cceea2;}.cls-21{fill:#f7f6f5;}.cls-23{letter-spacing:-.028em;}.cls-24{letter-spacing:.01em;}.cls-25{letter-spacing:-.007em;}.cls-5{font-size:4.6px;}.cls-26{letter-spacing:.01em;}.cls-27{letter-spacing:-.017em;}.cls-28{letter-spacing:-.017em;}.cls-22{fill:none;}</style><image
        id="image"
        width="230"
        height="230"
@@ -595,7 +595,7 @@
        x="161.521"
        y="216.713" /><text
        xml:space="preserve"
-       style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
+       style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"
        x="182.53964"
        y="232.04214"
        id="text4362"><tspan
@@ -663,7 +663,7 @@
        id="text4645-8"
        x="60.282516"
        y="10.394133"
-       style="font-size:3.33333px;line-height:1;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-size:3.33333px;line-height:1;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          sodipodi:role="line"
          x="60.282516"
          y="10.394133"
@@ -703,7 +703,7 @@
        id="text4645-8-9"
        x="89.866821"
        y="10.659751"
-       style="font-size:4px;line-height:1;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:none;stroke-opacity:1"><tspan
+       style="font-size:4px;line-height:1;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:none;stroke-opacity:1"><tspan
          sodipodi:role="line"
          x="89.866821"
          y="10.659751"
@@ -738,7 +738,7 @@
        id="text4645-8-9-1"
        x="119.43752"
        y="10.394137"
-       style="font-size:3.33333px;line-height:1;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-size:3.33333px;line-height:1;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          sodipodi:role="line"
          x="119.43752"
          y="10.394137"
@@ -778,7 +778,7 @@
        id="text4645-8-9-1-3"
        x="153.52081"
        y="10.64775"
-       style="font-size:4px;line-height:1;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
+       style="font-size:4px;line-height:1;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';fill:#0a0a0a;stroke:#ffffff;stroke-opacity:1;paint-order:stroke fill markers"><tspan
          sodipodi:role="line"
          x="153.52081"
          y="10.64775"
@@ -2524,7 +2524,7 @@
            y="0"
            id="tspan4857">覚</tspan></text></g><text
        xml:space="preserve"
-       style="font-size:6px;font-family:biz-udpgothic-regular, HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';-inkscape-font-specification:'BIZ UDPGothic, BIZ UDPゴシック, HiraginoSans-W7-83pv-RKSJ-H, Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
+       style="font-size:6px;font-family:'BIZ UDPGothic', HiraginoSans-W7-83pv-RKSJ-H, 'Hiragino Sans';text-align:center;text-anchor:middle;fill:#0a0a0a;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;paint-order:stroke fill markers"
        x="263.52155"
        y="238.85486"
        id="text27946"><tspan
