@@ -1,9 +1,17 @@
 @charset "UTF-8";
 @font-face {
 	font-family: "UD";
+  font-style: normal;
+  font-weight: 400;
 	src: url('../fonts/FORMUDPGothic-Regular.ttf') format('truetype'),
 			 url('../fonts/FORMUDPGothic-Regular.woff2') format('woff2'),
-       url('../fonts/FORMUDPGothic-Bold.ttf') format('truetype'),
+       url('../fonts/FORMUDPGothic-Regular.woff') format('woff');       
+}
+@font-face {
+  font-family: "UD";
+  font-style: normal;
+  font-weight: 700;
+  src: url('../fonts/FORMUDPGothic-Bold.ttf') format('truetype'),
        url('../fonts/FORMUDPGothic-Bold.woff2') format('woff2'),
        url('../fonts/FORMUDPGothic-Bold.woff') format('woff');
 }
@@ -19,8 +27,7 @@
 
 body *{
   font-display: swap;
-  font-family: "UD","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;
-  /*font-family: "BIZ UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;*/
+  font-family: "UD","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans",sans-serif;
   color: #222;
 }
 
