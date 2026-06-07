@@ -1,8 +1,13 @@
 @charset "UTF-8";
+body *{
+    font-display: swap;
+}
+
 body {
   line-height: 1.7;
   font-size: 14px;
-  font-family: "BIZ UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;
+  font-family: "帳票 UDPGothic","FORM UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;
+  /*font-family: "BIZ UDPGothic","Arial","Helvetica Neue","Hiragino Kaku Gothic ProN","Hiragino Sans","メイリオ",sans-serif;*/
   color: #222;
   src: url('../fonts/DFMRGC.TTC') format("truetype");
   src: url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.ttf');
