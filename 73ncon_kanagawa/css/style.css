@@ -1,15 +1,20 @@
 @charset "UTF-8";
 @font-face {
 	font-family: "UD";
-	src: url('../fonts/FORMUDPGothic-Regular.woff2') format('woff2'),
-			 url('../fonts/FORMUDPGothic-Regular.woff') format('woff'),
+	src: url('../fonts/FORMUDPGothic-Regular.ttf') format('truetype'),
+			 url('../fonts/FORMUDPGothic-Regular.woff2') format('woff2'),
+       url('../fonts/FORMUDPGothic-Bold.ttf') format('truetype'),
        url('../fonts/FORMUDPGothic-Bold.woff2') format('woff2'),
        url('../fonts/FORMUDPGothic-Bold.woff') format('woff');
 }
 @font-face {
 	font-family: "NHK";
-  src: url('../fonts/DFMRGC.TTC') format("truetype"),
-       url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.ttf') format("truetype");
+  src: url('../fonts/DFMRGC.ttf') format("truetype"),
+       url('../fonts/DFMRGC.woff2') format("woff2"),
+       url('../fonts/DFMRGC.woff') format("woff"),
+       url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.ttf') format("truetype"),
+       url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.woff2') format("woff2"),
+       url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.woff') format("woff");
 }
 
 body *{
