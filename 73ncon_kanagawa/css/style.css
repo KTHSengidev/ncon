@@ -18,10 +18,10 @@
 @font-face {
 	font-family: "NHK";
   src: url('../fonts/DFMRGC.ttf') format("truetype"),
-       url('../fonts/DFMRGC.woff2') format("woff2"),
-       url('../fonts/DFMRGC.woff') format("woff"),
        url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.ttf') format("truetype"),
+       url('../fonts/DFMRGC.woff2') format("woff2"),
        url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.woff2') format("woff2"),
+       url('../fonts/DFMRGC.woff') format("woff"),
        url('../fonts/DFMaruGothic-UB-WINP-RKSJ-H-02.woff') format("woff");
 }
 
