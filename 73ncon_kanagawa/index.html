@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/leaflet.css">
+    <link rel="stylesheet" href="css/map_print.css" media="print">
     <script type="text/javascript" src="js/leaflet.js"></script>
     <script>
         function clearText() {
@@ -36,9 +37,48 @@
             <div id="room">フロアマップ</div>
             <div id="floor"><a href="sakuin.html">索引</a></div>
         </div>-->
-        <div class="sroom"><p>右上のボタンで階数切り替え</p>
+        <div class="sroom">
+            <p>右上のボタンで階数切り替え</p>
             <div id="map" style="width: 100;height: calc(100vh - 330px);"></div>
             <p>ピンチアウトで地図を拡大</p>
+        </div>
+        <div class="not-safari">
+            <p class="imagep" style="text-align: right;">地図の印刷は<a href="#" id="print-map-link" style="text-decoration: underline;">こちら</a></p>
+        </div>
+        <div class="safari-only">
+            <p class="imagep" style="text-align: right;">地図の印刷は<a href="会場図.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration: underline;">こちら</a></p>
+        </div>
+        <div class="print-map" aria-label="印刷用フロアマップ">
+            <figure class="print-map_item">
+                <img src="svg/1F.svg" alt="1Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/2F.svg" alt="2Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/3F.svg" alt="3Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/4F.svg" alt="4Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/5F.svg" alt="5Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/6F.svg" alt="6Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/7F.svg" alt="7Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/8F.svg" alt="8Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/9F.svg" alt="9Fの地図">
+            </figure>
+            <figure class="print-map_item">
+                <img src="svg/10F.svg" alt="10Fの地図">
+            </figure>
         </div>
     </main>
     <footer>
@@ -100,6 +140,22 @@
         L.control.layers(layers, null, {collapsed: false,}).addTo(map);
 
         map.zoomControl.setPosition("bottomleft");
+
+        document.getElementById("print-map-link").addEventListener("click", function(event) {
+            event.preventDefault();
+            window.print();
+        });
+
+        const ua = window.navigator.userAgent.toLowerCase();
+
+        if (ua.indexOf('safari') !== -1 && ua.indexOf('chrome') === -1 && ua.indexOf('edg') === -1) {
+            window.addEventListener('keydown', function(e) {
+            if ((e.ctrlKey || e.metaKey) && e.keyCode === 80) {
+                e.preventDefault();
+                window.open("会場図.pdf");
+                }
+            });
+        }
     </script>
 </body>
 </html>

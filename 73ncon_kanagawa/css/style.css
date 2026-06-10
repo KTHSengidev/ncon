@@ -141,6 +141,10 @@ header h1 {
   max-width: 800px;
 }
 
+.print-map {
+  display: none;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -378,4 +382,34 @@ footer p{
   text-align: right;
   padding-right: 5px;
   margin: 0;
+}
+
+.not-safari {
+  display: block;
+  font-weight: 600;
+  font-size: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Safariのみ非表示にする */
+@supports (-webkit-backdrop-filter: none) {
+  .not-safari {
+    display: none;
+  }
+}
+
+.safari-only {
+  display: none;
+  font-weight: 600;
+  font-size: 24px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Safariのみに適用するスタイル */
+@supports (-webkit-backdrop-filter: none) {
+  .safari-only {
+    display: block;
+  }
 }
